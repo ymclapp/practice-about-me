@@ -1,0 +1,92 @@
+body {
+    background-color: lightgrey;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#nav-bar {
+    background-color: navy;
+    font-size: 50px;
+    color: white;
+    /* float: inline-start; */
+    font-family: 'Shadows Into Light', cursive;
+}
+
+#bio-text {
+    background-color: coral;
+    text-align: justify;
+    /* margin-bottom: 20px; */
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+#ed-text {
+    background-color: rgb(133, 235, 235);
+    text-align: justify;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* margin-top: 10px; */
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+#work-text {
+    background-color: lightskyblue;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* float: none; */
+    /* margin-right: 0%; */
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+#goals-text {
+    background-color: moccasin;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-top: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#bio-title {
+    font-size: 50px;
+    color: white;
+    /* text-align: right; */
+    font-family: 'Ranchers', cursive;
+    float: left;
+}
+
+#ed-title {
+    font-size: 50px;
+    color: white;
+    /* text-align: right; */
+    font-family: 'Ranchers', cursive;
+    float: left;
+}
+
+#work-title {
+    font-size: 50px;
+    color: white;
+    /* text-align: right; */
+    font-family: 'Ranchers', cursive;
+    float: left;
+}
+
+#goals-title {
+    font-size: 50px;
+    color: white;
+    /* text-align: right; */
+    font-family: 'Ranchers', cursive;
+    float: left;
+}
